@@ -1,2 +1,1 @@
-# linux-scripts
-Sample linux scripts
+home for linux scripts
